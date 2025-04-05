@@ -1,2 +1,2 @@
 # backend-learning
-learning about backend using (javaScript/node.js/express.js). 
+Learning backend with (Node.js/ Express.js/ File System module). 
