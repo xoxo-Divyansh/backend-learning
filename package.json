@@ -1,0 +1,24 @@
+{
+  "name": "back-end-start",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js",
+    "xoxo": "echo \"\u001b[36mRunning tests... \u001b[39m\"  xoxo: coco\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Divyansh Raj Tripathi",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "accessibility": "^6.0.7",
+    "chalk": "^5.4.1",
+    "express": "^4.19.2",
+    "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
