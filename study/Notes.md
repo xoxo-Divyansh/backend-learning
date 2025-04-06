@@ -1,4 +1,4 @@
-!!!MERN- mongoDB, Express, React, Node!!!
+!!!MERN- mongoDB, Express, React, Node!!
 
 :::〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰:::
 :::~~~~~~~~  ~~~~~~~~~~~~~   ~~~~~:::
